@@ -12,7 +12,7 @@ Lógica de funcionamento desenvolvida em Python, com base nos requisitos do sist
 🖼️ Protótipo no Figma
 Clique no link abaixo para visualizar o protótipo da interface:
 
-[![Figma](https://img.shields.io/badge/Design-Figma-blue?logo=figma)]([https://www.figma.com/file/SEU-LINK-AQUI](https://www.figma.com/design/uMPkpyq5sWXAsi315S8mCc/biblioteca-virtual?node-id=0-1&t=8c7TbdDy0nxTWpFy-1))
+[![Figma](https://img.shields.io/badge/Design-Figma-blue?logo=figma)]([https://www.figma.com/design/uMPkpyq5sWXAsi315S8mCc/biblioteca-virtual?node-id=0-1&t=8c7TbdDy0nxTWpFy-1])
 
 
 🧠 Tecnologias Utilizadas
